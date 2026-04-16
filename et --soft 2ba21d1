@@ -1,0 +1,47 @@
+[33m97b9d2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjzoricic22[m[33m)[m Uklonjen blend1 backup iz repozitorija
+[33m2591315[m Dodao .gitignore za blend1 backup datoteke
+[33mcfa7def[m Postavljen Git LFS za sve 3D assete
+[33m033e0c9[m Dodani ugljeni u sceni, LFS
+[33m78fb94c[m Dodani ugljeni u sceni, LFS
+[33m254f659[m Dodani ugljeni u sceni, LFS
+[33m4eb3bb4[m Dodani ugljeni u sceni
+[33m3ded932[m Dodao ugljen kao kolekcijski predmet u scenu
+[33m2ba21d1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #30 from AILab-FOI/ktuksa22
+[33m366ff17[m[33m ([m[1;31morigin/ktuksa22[m[33m)[m Added balcony assets to all sides of the building
+[33m839ca21[m Merge pull request #29 from AILab-FOI/ktuksa22
+[33m7508459[m Added balcony assets to the front side of the building
+[33m4d819d4[m[33m ([m[1;31morigin/flesjak21[m[33m)[m Merge pull request #28 from AILab-FOI/lzbodulja23
+[33m93bbf16[m[33m ([m[1;31morigin/lzbodulja23[m[33m)[m Added lastest design changes
+[33mc950f11[m Merge pull request #27 from AILab-FOI/main
+[33mb98dc41[m Merge pull request #26 from AILab-FOI/pknezevic23
+[33mb751d1f[m[33m ([m[1;31morigin/pknezevic23[m[33m)[m Added new revolution_v1.0 design blend file with latest scene changes
+[33mbb80f02[m Merge pull request #12 from AILab-FOI/lzbodulja23
+[33m75b02d2[m Upload secondary 3D models
+[33m32af2c8[m Delete assets/models/Pištolj.dae
+[33ma92d01f[m Merge pull request #11 from AILab-FOI/pknezevic23
+[33md768895[m Merge pull request #10 from AILab-FOI/ldurdevic22
+[33md26ac80[m[33m ([m[1;31morigin/ldurdevic22[m[33m)[m Merge branch 'main' into ldurdevic22
+[33m037d13c[m Merge pull request #9 from AILab-FOI/flesjak21
+[33m1598cf3[m Merge branch 'main' into flesjak21
+[33me039399[m Merge pull request #8 from AILab-FOI/lzbodulja23
+[33me601188[m Upload secondary 3D models
+[33m1763ad7[m Upload glavnih 3D modela
+[33m78ca3d4[m Add enemy patrol AI and player detection system (enemy_ai.py)
+[33m9c06f74[m Add coin collection and score tracking system (score.py)
+[33m569716d[m Merge pull request #7 from AILab-FOI/main sync
+[33m40ccd5d[m Merge pull request #6 from AILab-FOI/pknezevic23 - sync
+[33m49166d1[m Merge pull request #5 from AILab-FOI/ldurdevic22
+[33mc821180[m Standardize documentation structure and add repository guidelines
+[33me96608f[m[33m ([m[1;31morigin/bjuraga23[m[33m)[m Merge pull request #3 from AILab-FOI/flesjak21
+[33mca20465[m Delete textures directory
+[33mfea4982[m Delete scripts directory
+[33maf9628e[m Delete models directory
+[33m0d470df[m Create Naming convention.txt
+[33m40ce23b[m Delete docs directory
+[33me1beb60[m Delete audio directory
+[33m41f9e12[m Organize Blender files and documentation into assets folders
+[33m31d8716[m Add initial project documentation to README
+[33mff589bf[m Add README.md for scripts folder
+[33mf0079bc[m Add README for audio folder
+[33m02e22a7[m Add README for textures folder
+[33m67008c3[m Update README to describe folder for 3D models
