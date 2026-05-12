@@ -1,6 +1,6 @@
 import bge
 
-MOVE_SPEED = 5.0
+MOVE_SPEED = 8.5
 JUMP_FORCE = 7.0
 
 def main():
