@@ -2,6 +2,7 @@
 # Author: Jakov Zoricic
 
 import bge
+from bge import logic
 
 
 def update(cont):
@@ -34,3 +35,8 @@ def update(cont):
         hud_text = scene.objects.get(f"HUDgearCount{side}")
         if hud_text is not None:
             hud_text["Text"] = new_value
+       
+    #When player reaches 11 gears, game ends and scene is set to winning scene / implemented by ktuksa22        
+    if own["gear_count"] >= 11:
+        print("GAME WON TRIGGERED")
+        logic.getCurrentScene().replace("GameWon")
