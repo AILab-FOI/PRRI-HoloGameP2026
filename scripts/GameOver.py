@@ -11,5 +11,6 @@ if collision.positive:
     if (
         "Locomotive_Cube" in hit.name
         or "RailwayTrack" in hit.name
+        or "floor" in hit.name
     ):
         logic.getCurrentScene().replace("GameOver")
